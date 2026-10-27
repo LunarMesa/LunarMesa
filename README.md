@@ -1,4 +1,4 @@
-# Hi, I'm Lunar Mesa 👋
+# Hey, I'm Lunar Mesa 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7A5AF8&center=true&vCenter=true&width=440&lines=Developer;Creator;Learner;Builder;Always+improving" alt="Typing SVG" />
@@ -12,12 +12,12 @@
 
 I’m a passionate developer who enjoys building clean, useful, and user-friendly digital experiences. I like turning ideas into practical solutions and constantly learning new tools, patterns, and best practices.
 
-- 🔭 Currently working on: personal projects, learning, and building my portfolio
+- 🔭 Currently working on: Pahute Mesa Civil Operations Center --> Visit: www.PahuteMesa.com
 - 🌱 Currently learning: modern web development, backend systems, and software architecture
 - 🤝 Open to collaborate on: web apps, tools, automation, and open-source projects
 - 💬 Ask me about: frontend, backend, problem-solving, and product-minded development
-- 📫 Reach me: add your email, LinkedIn, or socials here
-- ⚡ Fun fact: I enjoy learning by building real things and improving small details that make a product feel polished
+- 📫 Reach me: therealstargate@pm.me
+- ⚡ Fun fact: I'm in Visual Communication with Extraterrestrial Intelligence, yet no one cares.
 
 ---
 
@@ -49,11 +49,9 @@ I’m a passionate developer who enjoys building clean, useful, and user-friendl
 
 ## 🌟 Featured Projects
 
-- [Project 1](https://github.com/LunarMesa) — Short description of what it does
-- [Project 2](https://github.com/LunarMesa) — Short description of what it does
-- [Project 3](https://github.com/LunarMesa) — Short description of what it does
-
-You can replace these with your actual repositories to make the profile feel more personal.
+- [Pahute Mesa](https://github.com/PahuteMesa) — Social Media and Research Network Centralizing Knowledge.
+- [Ark Legacies](https://github.com/ArkLegacies) — Streaming Autobiographies and Biographies. Celebrating the lives of the many.
+- [Cosmic Top Secret](https://github.com/CosmicTopSecret) — Parked.
 
 ---
 
@@ -63,13 +61,13 @@ You can replace these with your actual repositories to make the profile feel mor
   <a href="https://github.com/LunarMesa">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/neulsm">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/your-handle">
+  <a href="https://x.com/LunarMesa">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="mailto:you@example.com">
+  <a href="mailto:therealstargate@pm.me">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -77,5 +75,5 @@ You can replace these with your actual repositories to make the profile feel mor
 ---
 
 <p align="center">
-  <i>“Build things that matter, keep learning, and make the details count.”</i>
+  <i>“No one in the business calls it Area 51. We call it Pahute Mesa.”</i>
 </p>
