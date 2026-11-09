@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7A5AF8&center=true&vCenter=true&width=440&lines=Developer;Creator;Learner;Builder;Always+improving" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Focus-Fullstack%20Development-7A5AF8?style=for-the-badge" alt="Focus" />
   <img src="https://img.shields.io/badge/Location-Remote%20%7C%20Global-1DB954?style=for-the-badge" alt="Location" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Collab-00C7B7?style=for-the-badge" alt="Status" />
