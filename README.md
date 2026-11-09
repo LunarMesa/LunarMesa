@@ -34,17 +34,6 @@ I’m a passionate developer who enjoys building clean, useful, and user-friendl
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LunarMesa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunarMesa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
-</p>
-
----
-
 ## 🌟 Featured Projects
 
 - [Pahute Mesa](https://github.com/PahuteMesa) — Social Media and Research Network Centralizing Knowledge.
