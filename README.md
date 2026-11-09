@@ -1,4 +1,6 @@
-# Hey, I'm Lunar Mesa 👋
+<p align="center">
+  <img src="assets/images/MesaBanner.png" alt="Pahute Mesa Banner" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7A5AF8&center=true&vCenter=true&width=440&lines=Developer;Creator;Learner;Builder;Always+improving" alt="Typing SVG" />
